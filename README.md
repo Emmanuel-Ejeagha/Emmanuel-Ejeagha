@@ -26,7 +26,7 @@ I'm interested in Software Engineering, Cyber Security, DevOps, Web Dev and Arti
 <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" height="40" style="vertical-align:top; margin:4px">
 <!---<img src="https://github.com/hardope/hardope/assets/76790341/66b41f49-af77-496f-ae72-dbd8dcbfa880" height="50" style="vertical-align:top; margin:4px">
 <img src="https://github.com/hardope/hardope/assets/76790341/425bdf25-ee62-40f0-a5c9-2c917f1ee9d2" height="50" style="vertical-align:top; margin:4px">--->
-<img src="https://en.wikipedia.org/wiki/Tux_%28mascot%29#/media/File:Tux.svg" height="40" style="vertical-align:top; margin:4px">
+<img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height="40" style="vertical-align:top; margin:4px">
 </p>
                                                                                                                                                     
 ---
