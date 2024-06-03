@@ -18,8 +18,8 @@ I'm interested in Software Engineering, Cyber Security, DevOps, Web Dev and Arti
 <img src="https://user-images.githubusercontent.com/76790341/190482899-5367a114-82bb-48e4-987e-d371df18d545.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187140476-61664fc5-1562-48a3-a5a5-f2f6d8ac917f.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187141646-76dd8b84-1e63-4b5e-b61d-30040f2573cb.png"height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/hardope/hardope/assets/76790341/6b3a8d51-5374-4adf-ac87-2f8dd704ce64" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://www.cleanpng.com/png-flask-python-web-framework-representational-state-6384161/" height="40" style="vertical-align:top; margin:4px">
+<!-- <img src="https://github.com/hardope/hardope/assets/76790341/6b3a8d51-5374-4adf-ac87-2f8dd704ce64" height="40" style="vertical-align:top; margin:4px"> -->
+  <img src="https://www.google.com/imgres?q=pytho%20flask%20logo&imgurl=https%3A%2F%2Fdocs.zeet.co%2Fassets%2Fimages%2Fflask-a3319b33492c2abbf2abfc0403064405.png&imgrefurl=https%3A%2F%2Fdocs.zeet.co%2Fexamples%2Fpython%2Fflask%2F&docid=VNlVax8OwB7foM&tbnid=GUi3NDskBh6SRM&vet=12ahUKEwibhNyErsCGAxVwV0EAHeZfAKMQM3oECGgQAA..i&w=500&h=500&hcb=2&ved=2ahUKEwibhNyErsCGAxVwV0EAHeZfAKMQM3oECGgQAA" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187142840-1acfcea2-a215-4f56-b11e-216fc8aa885b.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/hardope/hardope/assets/76790341/bdd1c63a-98bd-45fa-b82e-0f8c44485066" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187141391-bfad1a42-3cc2-4edd-903b-6d362ee63fc2.png" height="40" style="vertical-align:top; margin:4px">
