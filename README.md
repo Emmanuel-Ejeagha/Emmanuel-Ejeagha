@@ -29,6 +29,7 @@ I'm interested in Software Engineering, Cyber Security, DevOps, Web Dev and Arti
 <!-- <img src="https://github.com/hardope/hardope/assets/76790341/425bdf25-ee62-40f0-a5c9-2c917f1ee9d2" height="50" style="vertical-align:top; margin:4px"> -->
 <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height="40" style="vertical-align:top; margin:4px">
 </p>
+---
 - 🌱 I’m currently learning **JavaScript, C-Programming and Python**
 
                                                                                                                                                     
