@@ -30,13 +30,14 @@ I'm interested in Software Engineering, Cyber Security, DevOps, Web Dev and Arti
 <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height="40" style="vertical-align:top; margin:4px">
 </p>
 <br>
----
 
-- 🌱 I’m currently learning **JavaScript, C-Programming and Python**
 
                                                                                                                                                     
 ---
 
+- 🌱 I’m currently learning **JavaScript, C-Programming and Python**
+---
+---
 ### Contact Me: <br>
 **E-mail** emma.ejeagha@gmail.com<br>
 **Phone** +234(0)8090993144
