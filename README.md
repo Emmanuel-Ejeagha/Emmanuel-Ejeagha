@@ -36,8 +36,9 @@ I'm interested in Software Engineering, Cyber Security, DevOps, Web Dev and Arti
 ---
 
 - 🌱 I’m currently learning **JavaScript, C-Programming and Python**
+  
 ---
----
+
 ### Contact Me: <br>
 **E-mail** emma.ejeagha@gmail.com<br>
 **Phone** +234(0)8090993144
