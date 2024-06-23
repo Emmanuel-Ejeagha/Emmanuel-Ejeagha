@@ -36,7 +36,7 @@ I'm interested in Software Engineering, DevOps, Web Dev and Artificial Intellige
                                                                                                                                                     
 ---
 
-- 🌱 I’m currently learning **JavaScript, C-Programming and Python**
+- 🌱 I’m currently learning **Python**
   
 ---
 
