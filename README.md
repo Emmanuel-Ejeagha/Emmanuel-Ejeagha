@@ -1,6 +1,6 @@
 # Emmanuel Ejeagha
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;System+Administrator)](https://git.io/typing-svg)
-I'm interested in Software Engineering, Cyber Security, DevOps, Web Dev and Artificial Intelligence<br>
+I'm interested in Software Engineering, DevOps, Web Dev and Artificial Intelligence<br>
 
 ---
 ### My Stack
