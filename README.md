@@ -14,6 +14,8 @@ I'm interested in Software Engineering, DevOps, Web Dev and Artificial Intellige
 <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
 </a>
+![image](https://github.com/Emmanuel-Ejeagha/Emmanuel-Ejeagha/assets/116760178/14a8096a-709c-4df7-b275-8d97a9c3625f)
+
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/> </a> 
 <img src="https://user-images.githubusercontent.com/76790341/190482427-414de214-10ea-4b75-9949-9d2e51c50b09.png" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://user-images.githubusercontent.com/76790341/190482899-5367a114-82bb-48e4-987e-d371df18d545.png" height="40" style="vertical-align:top; margin:4px">
