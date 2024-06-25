@@ -9,6 +9,7 @@ I'm interested in Software Engineering, DevOps, Web Dev and Artificial Intellige
 <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height="40" style="vertical-align:top; margin:4px">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
 <a href="https://github.com/Emmanuel-Ejeagha target="_blank" rel="noreferrer"> 
+<img  href="https://github.com/Emmanuel-Ejeagha/Emmanuel-Ejeagha/assets/116760178/4688fbd5-6e70-46ef-af66-7d373f6e4e88" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
 <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
 </a>
 <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer">
