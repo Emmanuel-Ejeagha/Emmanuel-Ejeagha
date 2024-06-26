@@ -9,7 +9,6 @@ I'm interested in Software Engineering, DevOps, Web Dev and Artificial Intellige
 <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height="40" style="vertical-align:top; margin:4px">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
 <a href="https://github.com/Emmanuel-Ejeagha target="_blank" rel="noreferrer"> 
-<img  src="https://github.com/Emmanuel-Ejeagha/Emmanuel-Ejeagha/assets/116760178/4688fbd5-6e70-46ef-af66-7d373f6e4e88" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
 <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
 </a>
 <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer">
@@ -22,6 +21,7 @@ I'm interested in Software Engineering, DevOps, Web Dev and Artificial Intellige
 <img src="https://user-images.githubusercontent.com/76790341/190482899-5367a114-82bb-48e4-987e-d371df18d545.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187140476-61664fc5-1562-48a3-a5a5-f2f6d8ac917f.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187141646-76dd8b84-1e63-4b5e-b61d-30040f2573cb.png"height="40" style="vertical-align:top; margin:4px">
+<img  src="https://github.com/Emmanuel-Ejeagha/Emmanuel-Ejeagha/assets/116760178/4688fbd5-6e70-46ef-af66-7d373f6e4e88" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/hardope/hardope/assets/76790341/6b3a8d51-5374-4adf-ac87-2f8dd704ce64" height="40" style="vertical-align:top; margin:4px">
 <!--   <img src="https://www.google.com/imgres?q=pytho%20flask%20logo&imgurl=https%3A%2F%2Fannexit.com%2Fwp-content%2Fuploads%2F2020%2F08%2Fpythonflask.png&imgrefurl=https%3A%2F%2Fannexit.com%2Fpython-flask-training.html&docid=nrD0Xe667hNrRM&tbnid=ULDxV01__s4TVM&vet=12ahUKEwiJoJ7e5MKGAxXgZEEAHSK4NQM4ChAzegQICBAA..i&w=827&h=552&hcb=2&ved=2ahUKEwiJoJ7e5MKGAxXgZEEAHSK4NQM4ChAzegQICBAA" height="40" style="vertical-align:top; margin:4px"> -->
 <img src="https://user-images.githubusercontent.com/76790341/187142840-1acfcea2-a215-4f56-b11e-216fc8aa885b.png" height="40" style="vertical-align:top; margin:4px">
