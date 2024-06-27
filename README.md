@@ -12,6 +12,7 @@ I'm interested in Software Engineering, DevOps, Web Dev and Artificial Intellige
 <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
 </a>
 <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer">
+<img src="https://github.com/Emmanuel-Ejeagha/Emmanuel-Ejeagha/assets/116760178/336a03b8-fc02-4bb0-aafd-22b7dc74b7fd" alt="TypeScript img" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
 </a>
 
