@@ -12,7 +12,6 @@ I'm interested in Software Engineering, DevOps, Web Dev and Artificial Intellige
 <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
 </a>
 <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer">
-<img src="https://github.com/Emmanuel-Ejeagha/Emmanuel-Ejeagha/assets/116760178/336a03b8-fc02-4bb0-aafd-22b7dc74b7fd" alt="TypeScript img" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
 </a>
 
@@ -30,6 +29,7 @@ I'm interested in Software Engineering, DevOps, Web Dev and Artificial Intellige
 <img src="https://user-images.githubusercontent.com/76790341/187141391-bfad1a42-3cc2-4edd-903b-6d362ee63fc2.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187142293-2280c369-2a56-4dcd-8547-df421d9421fe.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Emmanuel-Ejeagha/Emmanuel-Ejeagha/assets/116760178/336a03b8-fc02-4bb0-aafd-22b7dc74b7fd" alt="TypeScript img" height="40" style="vertical-align:top; margin:4px">
 <!-- <img src="https://github.com/hardope/hardope/assets/76790341/66b41f49-af77-496f-ae72-dbd8dcbfa880" height="50" style="vertical-align:top; margin:4px"> 
 <img src="https://github.com/hardope/hardope/assets/76790341/425bdf25-ee62-40f0-a5c9-2c917f1ee9d2" height="50" style="vertical-align:top; margin:4px"> -->
 
