@@ -32,7 +32,7 @@ I'm interested in Software Engineering, DevOps, Web Dev and Artificial Intellige
 <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Emmanuel-Ejeagha/Emmanuel-Ejeagha/assets/116760178/336a03b8-fc02-4bb0-aafd-22b7dc74b7fd" alt="TypeScript img" height="40" style="vertical-align:top; margin:4px">
  <img src="https://github.com/hardope/hardope/assets/76790341/66b41f49-af77-496f-ae72-dbd8dcbfa880" height="50" style="vertical-align:top; margin:4px"> 
-<!-- <img src="https://github.com/hardope/hardope/assets/76790341/425bdf25-ee62-40f0-a5c9-2c917f1ee9d2" height="50" style="vertical-align:top; margin:4px"> -->
+<img src="https://github.com/hardope/hardope/assets/76790341/425bdf25-ee62-40f0-a5c9-2c917f1ee9d2" height="50" style="vertical-align:top; margin:4px">
 
 </p>
 <br>
