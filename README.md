@@ -3,7 +3,7 @@
 I'm interested in Software Engineering, DevOps, Web Dev and Artificial Intelligence<br>
 
 ---
-### My Stack
+## My Stack
 
 <p align="center">
 <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height="40" style="vertical-align:top; margin:4px">
