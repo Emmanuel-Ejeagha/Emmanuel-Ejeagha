@@ -3,7 +3,6 @@
 I'm interested in Software Engineering, DevOps, Web Dev and Artificial Intelligence<br>
 
 ---
----
 ## My Stack
 
 <p align="center">
