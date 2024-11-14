@@ -52,10 +52,10 @@ I'm interested in Software Engineering, DevOps, Web Dev and Artificial Intellige
 
 ---
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuel-Ejeagha"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmanuel-Ejeagha&theme=github"/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel-Ejeagha)](https://git.io/streak-stats)
 
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuel-Ejeagha"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmanuel-Ejeagha&theme=github"/>
 <!--
 **Emmanuel-Ejeagha/Emmanuel-Ejeagha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 )
