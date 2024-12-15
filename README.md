@@ -42,7 +42,7 @@ I'm interested in Software Engineering, DevOps, Web Dev and Artificial Intellige
                                                                                                                                                     
 ---
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **C#**
   
 ---
 
