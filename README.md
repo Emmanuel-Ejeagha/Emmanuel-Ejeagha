@@ -28,8 +28,7 @@ I'm interested in Software Engineering, DevOps, Web Dev and Artificial Intellige
 <img src="https://user-images.githubusercontent.com/76790341/187142840-1acfcea2-a215-4f56-b11e-216fc8aa885b.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/hardope/hardope/assets/76790341/bdd1c63a-98bd-45fa-b82e-0f8c44485066" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187141391-bfad1a42-3cc2-4edd-903b-6d362ee63fc2.png" height="40" style="vertical-align:top; margin:4px">
-<img src="![image](https://github.com/user-attachments/assets/a2e3f253-5b8d-40af-acd5-71ca6308f131)
-" height="40" style="vertical-align:top; margin:4px">
+<img src="https://images.app.goo.gl/RmRpa97piAdx15jBA" height="40" style="vertical-align:top; margin:4px">
 <img src="![image](https://github.com/user-attachments/assets/a880d1de-3ae1-43a5-b106-c6ef74240410)
 " height="40" style="vertical-align:top; margin:4px">
 <img src="![image](https://github.com/user-attachments/assets/bbe0e36d-b8d8-4df5-b895-708036440257)
