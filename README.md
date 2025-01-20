@@ -34,7 +34,7 @@ I'm interested in Software Engineering, DevOps, Web Dev and Artificial Intellige
 " height="40" style="vertical-align:top; margin:4px">
 <img src="![image](https://github.com/user-attachments/assets/bbe0e36d-b8d8-4df5-b895-708036440257)
 " height="40" style="vertical-align:top; margin:4px">
-<img src="![image](https://github.com/user-attachments/assets/70a03e54-bede-48b8-b1c0-31eaa8ec8f43)
+<img src="![image](https://github.com/user-attachments/assets/93a91f99-8fb3-4a60-8b44-97ba2264f42d)
 " height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187142293-2280c369-2a56-4dcd-8547-df421d9421fe.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" height="40" style="vertical-align:top; margin:4px">
