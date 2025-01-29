@@ -80,5 +80,3 @@
 Let's connect and build something amazing together! 🚀
 
 ---
-
-This version is clean, professional, and highlights your skills and certifications effectively. You can further customize it by adding links to your LinkedIn profile, portfolio, or other social media handles.
