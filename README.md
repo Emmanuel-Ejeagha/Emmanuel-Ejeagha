@@ -53,7 +53,7 @@
 ## 🌱 Currently Learning
 - **C#**  
 - **Advanced DevOps Practices**  
-- **Artificial Intelligence and Machine Learning**
+- **Artificial Intelligence**
 
 ---
 
