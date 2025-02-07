@@ -61,8 +61,6 @@
 ## 📫 Contact Me
 - **Email**: [emma.ejeagha@gmail.com](mailto:emma.ejeagha@gmail.com)  
 - **Phone**: +234 (0) 809 099 3144  
-- **LinkedIn**: [Your LinkedIn Profile](#) *(Add your LinkedIn link here)*  
-- **Portfolio**: [Your Portfolio Website](#) *(Add your portfolio link here)*  
 
 ---
 
