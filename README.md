@@ -3,9 +3,9 @@
 ---
 
 # Emmanuel Ejeagha  
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;FinTech+Full-Stack+Engineer;Backend+Developer;DevOps+Enthusiast;AI+Learner)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;FinTech+Backend+Engineer;Fullstack+Developer;DevOps+Enthusiast;AI+Learner)](https://git.io/typing-svg)
 
-👋 Hi there! I'm a passionate **Software Engineer** and **FinTech Full-Stack Engineer** with a strong interest in **DevOps**, **Web Development**, and **Artificial Intelligence**. I hold certifications in **Computer Software Engineering** and **C# Foundation with Microsoft**. I'm constantly learning and expanding my skill set to build innovative and scalable solutions.
+👋 Hi there! I'm a passionate **Software Engineer** and **FinTech Backend Engineer** with a strong interest in **DevOps**, **Web Development**, and **Artificial Intelligence**. I hold certifications in **Computer Software Engineering** and **C# Foundation with Microsoft**. I'm constantly learning and expanding my skill set to build innovative and scalable solutions.
 
 ---
 
