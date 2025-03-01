@@ -23,6 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" height="40" style="vertical-align:top; margin:4px">
   <!-- <img src="https://greensock.com/uploads/set_resources_2/84c1e40ea0e759e3f1505eb1788ddf3c_logo.svg" alt="GSAP" height="40" style="vertical-align:top; margin:4px"> -->
 </p>
 
