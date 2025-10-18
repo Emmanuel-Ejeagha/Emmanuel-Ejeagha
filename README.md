@@ -1,5 +1,3 @@
-
-   
 ---
 
 # Emmanuel Ejeagha  
