@@ -55,9 +55,8 @@
 ---
 
 ## 🌱 Currently Learning
-- **C#**  
-- **Advanced DevOps Practices**  
-- **Artificial Intelligence**
+- **C# .NET Core**  
+- **Entity Framework Core**
 
 ---
 
