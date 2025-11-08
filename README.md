@@ -56,7 +56,7 @@
 ---
 
 ## 🌱 Currently Learning
-- **C# .NET Core** - **Entity Framework Core**
+- **C# .NET Core** - **Entity Framework Core** - **AWS Cloud Computing**
 
 ---
 
