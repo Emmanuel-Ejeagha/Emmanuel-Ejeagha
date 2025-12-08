@@ -6,7 +6,7 @@
 # Emmanuel Ejeagha  
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;CSharp+.NET+Developer;Aspiring+FinTech+Backend+Engineer;Fullstack+Developer;DevOps+Enthusiast;AI+Learner)](https://git.io/typing-svg)
 
-👋 Hi there! I'm a passionate **Software Engineer, C# NET Core Developer and Aspiring FinTech Backend Engineer** with a strong interest in **Cloud Computing**, **Web Development**, and **Artificial Intelligence**. I hold certifications in **Computer Software Engineering** and **C# Foundation with Microsoft**. I'm constantly learning and expanding my skill set to build innovative and scalable solutions.
+👋 Hi there! I'm a passionate **Software Engineer**, **C# NETCore AspNET Developer** and **Aspiring FinTech Backend Engineer** with a strong interest in **Cloud Computing**, **Web Development**, and **Artificial Intelligence**. I hold certifications in **Computer Software Engineering** and **C# Foundation with Microsoft**. I'm constantly learning and expanding my skill set to build innovative and scalable solutions.
 
 ---
 
