@@ -50,7 +50,8 @@
 ---
 
 ## 🎓 Certifications
-- **Computer Software Engineering** - **C# Foundation with Microsoft**
+- **Computer Software Engineering**
+- **C# Foundation with Microsoft**
 
 ---
 
