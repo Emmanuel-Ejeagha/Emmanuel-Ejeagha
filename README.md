@@ -1,7 +1,6 @@
 
 ---
 
-
 # Emmanuel Ejeagha  
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;CSharp+.NET+Developer;Aspiring+FinTech+Backend+Engineer;Fullstack+Developer;DevOps+Enthusiast;AI+Learner)](https://git.io/typing-svg)
 
