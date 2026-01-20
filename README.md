@@ -1,7 +1,9 @@
 # Emmanuel Ejeagha  
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;CSharp+.NET+Developer;Aspiring+FinTech+Backend+Engineer;Fullstack+Developer;DevOps+Enthusiast;AI+Learner)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;C#+.NET+Backend+Developer;Aspiring+FinTech+Engineer;Fullstack+Developer;DevOps+Enthusiast;AI+Learner)](https://git.io/typing-svg)
 
-👋 I'm a passionate **Software Engineer**, **C# .NET Core & ASP.NET Core Developer**, and **Aspiring FinTech Backend Engineer** with a strong interest in **Cloud Computing**, **Web Development**, and **Artificial Intelligence**. I hold certifications in **Computer Software Engineering** and **C# Foundation with Microsoft**. I'm constantly learning and building innovative and scalable solutions.
+👋 Hi! I'm a passionate **Backend Software Engineer** specializing in **C# .NET Core & ASP.NET Core**. I build scalable, high-performance backend systems and APIs with a strong focus on clean architecture, maintainability, and cloud-ready solutions.  
+
+I hold certifications in **Computer Software Engineering** and **C# Foundation with Microsoft**, and I’m constantly learning to expand my skills in **Cloud Computing**, **Database Management**, and **Web Development**.
 
 ---
 
@@ -11,23 +13,17 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnetcore/aspnetcore-original.svg" alt="ASP.NET Core" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ### Databases
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="Entity Framework Core" height="40" style="vertical-align:top; margin:4px">
 </p>
 
@@ -36,45 +32,43 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="40" style="vertical-align:top; margin:4px"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ---
 
+## 💻 Featured Projects
+
+### [Messaging Platform](https://github.com/Emmanuel-Ejeagha/Messaging_Platform)  
+A **real-time messaging platform** built with **C# .NET Core and ASP.NET Core**. Features include secure user authentication, chat rooms, message history, and responsive design. Implements **clean architecture** and database integration for production-ready deployment.
+
+### [Employee Management Portal](https://github.com/Emmanuel-Ejeagha/EmployeeMgmtPortal)  
+A **backend-driven employee management system** using **C#, ASP.NET Core, and Entity Framework Core**. Supports CRUD operations, role-based access control, and efficient database management. Designed with **scalable MVC architecture** and maintainable code practices.
+
+---
+
 ## 🎓 Certifications
-- **Computer Software Engineering**
+- **Computer Software Engineering**  
 - **C# Foundation with Microsoft**
 
 ---
 
 ## 🌱 Currently Learning
-- **C# .NET Core**  
+- **Advanced C# .NET Core**  
 - **Entity Framework Core**  
-- **AWS Cloud Computing**
-
----
-
-## 💻 Projects
-
-### [Messaging Platform](https://github.com/Emmanuel-Ejeagha/Messaging_Platform)  
-A full-featured messaging platform built with **C#, .NET Core, and ASP.NET Core**. Implements **real-time messaging**, user authentication, and a responsive frontend. Includes database integration and deployment-ready architecture.
-
-### [Employee Management Portal](https://github.com/Emmanuel-Ejeagha/EmployeeMgmtPortal)  
-An **employee management system** built using **C#, .NET Core, ASP.NET Core, and Entity Framework Core**. Features CRUD operations, role-based access control, and clean MVC architecture for efficient employee data management.
+- **AWS Cloud Computing & Deployment**
 
 ---
 
 ## 📫 Contact Me
 - **Email**: [emma.ejeagha@gmail.com](mailto:emma.ejeagha@gmail.com)  
-- **Phone**: +234 (0) 809 099 3144  
+- **Phone**: +234 809 099 3144  | +234 813 445 4337
 
 ---
 
 ## 📊 GitHub Stats
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel-Ejeagha&theme=dark)](https://git.io/streak-stats)
 
 <p align="center">
@@ -84,5 +78,5 @@ An **employee management system** built using **C#, .NET Core, ASP.NET Core, and
 
 ---
 
-### Thanks for visiting my profile! 😄  
-Let's connect and build something amazing together! 🚀
+### 🚀 Let’s Connect
+I’m open to **collaboration, mentorship, and backend-focused projects**. If you’re building something exciting in **C# .NET** or **cloud-backed solutions**, let’s connect and create impact together!
