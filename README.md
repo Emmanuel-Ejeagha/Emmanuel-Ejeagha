@@ -1,9 +1,7 @@
----
-
 # Emmanuel Ejeagha  
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;CSharp+.NET+Developer;Aspiring+FinTech+Backend+Engineer;Fullstack+Developer;DevOps+Enthusiast;AI+Learner)](https://git.io/typing-svg)
 
-👋 I'm a passionate **Software Engineer**, **C# NETCore AspNetCore Developer** and **Aspiring FinTech Backend Engineer** with a strong interest in **Cloud Computing**, **Web Development**, and **Artificial Intelligence**. I hold certifications in **Computer Software Engineering** and **C# Foundation with Microsoft**. I'm constantly learning and expanding my skill set to build innovative and scalable solutions.
+👋 I'm a passionate **Software Engineer**, **C# .NET Core & ASP.NET Core Developer**, and **Aspiring FinTech Backend Engineer** with a strong interest in **Cloud Computing**, **Web Development**, and **Artificial Intelligence**. I hold certifications in **Computer Software Engineering** and **C# Foundation with Microsoft**. I'm constantly learning and building innovative and scalable solutions.
 
 ---
 
@@ -42,7 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="40" style="vertical-align:top; margin:4px"> 
-  
 </p>
 
 ---
@@ -54,7 +51,19 @@
 ---
 
 ## 🌱 Currently Learning
-- **C# .NET Core** - **Entity Framework Core** - **AWS Cloud Computing**
+- **C# .NET Core**  
+- **Entity Framework Core**  
+- **AWS Cloud Computing**
+
+---
+
+## 💻 Projects
+
+### [Messaging Platform](https://github.com/Emmanuel-Ejeagha/Messaging_Platform)  
+A full-featured messaging platform built with **C#, .NET Core, and ASP.NET Core**. Implements **real-time messaging**, user authentication, and a responsive frontend. Includes database integration and deployment-ready architecture.
+
+### [Employee Management Portal](https://github.com/Emmanuel-Ejeagha/EmployeeMgmtPortal)  
+An **employee management system** built using **C#, .NET Core, ASP.NET Core, and Entity Framework Core**. Features CRUD operations, role-based access control, and clean MVC architecture for efficient employee data management.
 
 ---
 
@@ -72,11 +81,8 @@
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuel-Ejeagha&theme=github"/>
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmanuel-Ejeagha&theme=github"/>
 </p>
-  
+
 ---
 
 ### Thanks for visiting my profile! 😄  
-Let's connect and build something amazing together! 🚀 
-.
-
----  
+Let's connect and build something amazing together! 🚀
