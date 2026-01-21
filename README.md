@@ -1,5 +1,5 @@
 # Emmanuel Ejeagha  
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=750&height=50&lines=Software+Engineer+|+Backend+.NET+Developer;C#,+ASP.NET+Core,+REST+APIs;Server-Side+Development)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=750&height=50&lines=Software+Engineer+|+Backend+.NET+Developer;CSharp,+ASP.NET+Core,+REST+APIs;Server-Side+Development)](https://git.io/typing-svg)
 
 👋 Hi! I'm a passionate **Backend Software Engineer** specializing in **C# .NET Core & ASP.NET Core**. I build scalable, high-performance backend systems and APIs with a strong focus on clean architecture, maintainability, and cloud-ready solutions.  
 
