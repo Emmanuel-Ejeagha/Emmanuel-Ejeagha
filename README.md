@@ -71,7 +71,7 @@ A **backend-driven employee management system** using **C#, ASP.NET Core, and En
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats-git-main-emmas-projects-af55c4a7.vercel.app?user=Emmanuel-Ejeagha&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-git-main-emmas-projects-af55c4a7.vercel.app/?user=Emmanuel-Ejeagha&theme=dark)](https://git.io/streak-stats)
 
 <p align="center">
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuel-Ejeagha&theme=github"/>
