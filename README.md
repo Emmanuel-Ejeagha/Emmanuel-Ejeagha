@@ -41,12 +41,12 @@ I hold certifications in **Computer Software Engineering** and **C# Foundation w
 
 ## 💻 Featured Projects
 
-### [Messaging Platform](https://github.com/Emmanuel-Ejeagha/Messaging_Platform)  
+### [Messaging Platform💬](https://github.com/Emmanuel-Ejeagha/Messaging_Platform)  
 A production-ready, **scalable messaging platform API** built with **ASP.NET Core 8,** implementing Clean Architecture, Domain-Driven Design, and CQRS patterns. Supports one-to-one messaging, group conversations, message threading, and read receipts.
 
 
 
-### [Employee Management Portal](https://github.com/Emmanuel-Ejeagha/EmployeeMgmtPortal)  
+### [Employee Management Portal🏢](https://github.com/Emmanuel-Ejeagha/EmployeeMgmtPortal)  
 A **backend-driven employee management system** using **C#, ASP.NET Core, and Entity Framework Core**. Supports CRUD operations, role-based access control, and efficient database management. Designed with **scalable MVC architecture** and maintainable code practices.
 
 ---
