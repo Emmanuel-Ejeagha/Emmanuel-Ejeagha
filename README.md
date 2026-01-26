@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00A3FF&center=true&vCenter=true&width=700&lines=Emmanuel+Ejeagha;Backend+Software+Engineer;.NET+%7C+C%23+%7C+Python+%7C+Cloud-Ready+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00A3FF&center=true&vCenter=true&width=700&lines=Emmanuel+Ejeagha;Backend+Software+Engineer+.NET+%7C+C%23+%7C+ASP.NET+Core,+REST+APIs;Server-Side+Development" alt="Typing SVG" />
 </div>
 
 <br>
@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/emmanuel-ejeagha">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://x.com/Emma_Ejeagha">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
