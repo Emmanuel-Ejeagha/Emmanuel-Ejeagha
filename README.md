@@ -125,7 +125,7 @@
 <h2 align="center">📫 Let's Connect & Collaborate</h2>
 
 <p align="center">
-  I'm actively seeking <strong>backend engineering opportunities</strong>, especially in <strong>.NET / C# ecosystems</strong>, cloud-native development, or scalable API projects.<br><br>
+  I'm actively seeking <strong>backend engineering opportunities</strong>, especially in <strong>.NET / C# ecosystems</strong>, or scalable API projects.<br><br>
   <strong>Open to:</strong> full-time roles • contract work • open-source collaboration • technical discussions<br><br>
   Reach out → <a href="mailto:emma.ejeagha@gmail.com"><strong>emma.ejeagha@gmail.com</strong></a>  |  +234 809 099 3144
 </p>
