@@ -1,106 +1,111 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00A3FF&center=true&vCenter=true&width=700&lines=Emmanuel+Ejeagha;Backend+Software+Engineer;.NET+%7C+C%23+%7C+ASP.NET+Core+%7C+REST+APIs;Server-Side+Development" alt="Typing SVG" />
+&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00A3FF&center=true&vCenter=true&width=700&lines=Emmanuel+Ejeagha;Backend+Software+Engineer;.NET+%7C+C%23+%7C+ASP.NET+Core+%7C+REST+APIs;Server-Side+Development" alt="Typing SVG" />
 </div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="30%">
-      <img src="Emmanuel Ejeagha.jpg" width="250px" style="border-radius: 50%;" alt="Emmanuel Ejeagha" />
-    </td>
-    <td width="70%">
-      <h2 align="left">👋 Hi, I'm Emmanuel</h2>
-      <p align="left">
-        <strong>Backend Software Engineer</strong> specialized in building scalable, clean, and high-performance systems.
-      </p>
-      <p align="left">
-        🚀 <strong>Core Focus:</strong> C# • .NET Core • <b>ASP.NET Core</b> • RESTful APIs • Clean Architecture • DDD • CQRS.
-      </p>
-      <p align="left">
-        🛠️ <strong>Additional Skills:</strong> Python (Automation & Data) • C (Systems Level).
-      </p>
-      <div align="left">
-        <a href="mailto:emma.ejeagha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-        <a href="https://www.linkedin.com/in/emmanuel-ejeagha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        <a href="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
+<br>
+<h2 align="center">👋 Hi, I'm Emmanuel — Backend Software Engineer</h2>
+<p align="center">
+&nbsp;&nbsp;<strong>Passionate about building scalable, clean, and high-performance backend systems</strong><br>
+&nbsp;&nbsp;Specialized in <strong>C# • .NET Core • ASP.NET Core</strong> • Experienced with RESTful APIs, Clean Architecture, DDD, CQRS, and cloud-ready solutions.<br>
+&nbsp;&nbsp;Also proficient in <strong>Python</strong> for scripting, automation & data tasks, and <strong>C</strong> for performance-critical & systems-level understanding.
+</p>
+<p align="center">
+&nbsp;&nbsp;<a href="mailto:emma.ejeagha@gmail.com">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+&nbsp;&nbsp;</a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/emmanuel-ejeagha">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+&nbsp;&nbsp;</a>
+&nbsp;&nbsp;<a href="https://x.com/Emma_Ejeagha">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+&nbsp;&nbsp;</a>
+</p>
 ---
-
-## 🛠️ Tech Stack
-
-### Languages & Core
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/>
+<h2>🛠️ Tech Stack</h2>
+### Languages
+<p align="center">
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="50"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/>
 </p>
-
-### .NET Ecosystem
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnetcore/aspnetcore-original.svg" alt="ASP.NET Core" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" height="50"/>
+### .NET Ecosystem & Frameworks
+<p align="center">
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" height="50"/>
+&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/519152c7-5c4b-421f-abcc-b7f1dc7aec50" alt="ASP.NET Core" height="50"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" height="50"/>
 </p>
-
-### Databases & DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50"/>
+### Databases & ORMs
+<p align="center">
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
 </p>
-
+### Tools & DevOps
+<p align="center">
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="50"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50"/>
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="50"/>
+</p>
 ---
-
-## 🚀 Featured Projects
-
+<h2>🚀 Featured Projects</h2>
 <div align="center">
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Messaging Platform 💬</h3>
-      <p align="center">
-        ASP.NET Core 8 • Clean Architecture • DDD • CQRS<br>
-        One-to-one & group chats • Threading • Read receipts<br><br>
-        <a href="https://github.com/Emmanuel-Ejeagha/Messaging_Platform">
-          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Employee Management Portal 🏢</h3>
-      <p align="center">
-        C# • ASP.NET Core • EF Core<br>
-        RBAC • CRUD • Scalable MVC design<br><br>
-        <a href="https://github.com/Emmanuel-Ejeagha/EmployeeMgmtPortal">
-          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
+&nbsp;&nbsp;<tr>
+&nbsp;&nbsp;&nbsp;&nbsp;<td width="50%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h3 align="center">Messaging Platform 💬</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Production-grade messaging API</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASP.NET Core 8 • Clean Architecture • DDD • CQRS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One-to-one & group chats • Threading • Read receipts<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Emmanuel-Ejeagha/Messaging_Platform">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+&nbsp;&nbsp;&nbsp;&nbsp;<td width="50%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h3 align="center">Employee Management Portal 🏢</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Full backend employee system</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C# • ASP.NET Core • EF Core<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RBAC • CRUD • Scalable MVC design<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Emmanuel-Ejeagha/EmployeeMgmtPortal">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>
+&nbsp;&nbsp;</tr>
 </table>
 </div>
-
 ---
-
+<h3>🎓 Certifications</h3>
+<ul>
+&nbsp;&nbsp;<li>Computer Software Engineering</li>
+&nbsp;&nbsp;<li>C# Foundation with Microsoft</li>
+</ul>
+<h3>🌱 Currently Exploring</h3>
+<ul>
+&nbsp;&nbsp;<li>Advanced .NET Patterns & Performance</li>
+&nbsp;&nbsp;<li>AWS Cloud Architecture & Deployment</li>
+&nbsp;&nbsp;<li>Python for Automation & Backend Microservices</li>
+</ul>
+---
 <h2 align="center">📊 GitHub Activity</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Emmanuel-Ejeagha&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuel-Ejeagha&theme=github_dark&border_radius=10"/>
+&nbsp;&nbsp;<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Emmanuel-Ejeagha&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D"/>
+&nbsp;&nbsp;<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuel-Ejeagha&theme=github_dark&border_radius=10"/>
+&nbsp;&nbsp;<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmanuel-Ejeagha&theme=github_dark&border_radius=10"/>
 </div>
-
 ---
-
 <h2 align="center">📫 Let's Connect & Collaborate</h2>
 <p align="center">
-  Reach out → <a href="mailto:emma.ejeagha@gmail.com"><strong>emma.ejeagha@gmail.com</strong></a> | +234 809 099 3144
+&nbsp;&nbsp;I'm actively seeking <strong>backend engineering opportunities</strong>, especially in <strong>.NET / C# ecosystems</strong>, or scalable API projects.<br><br>
+&nbsp;&nbsp;<strong>Open to:</strong> full-time roles • contract work • open-source collaboration • technical discussions<br><br>
+&nbsp;&nbsp;Reach out → <a href="mailto:emma.ejeagha@gmail.com"><strong>emma.ejeagha@gmail.com</strong></a> | +234 809 099 3144
 </p>
-
+<br>
 <div align="center">
-  <i>"Clean code, solid architecture, reliable systems — that's what I build."</i>
+&nbsp;&nbsp;<i>"Clean code, solid architecture, reliable systems — that's what I build."</i>
 </div>
