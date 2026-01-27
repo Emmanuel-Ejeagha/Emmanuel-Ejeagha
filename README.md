@@ -79,7 +79,7 @@
 &nbsp;&nbsp;</tr>
 </table>
 </div>
----
+
 <h3>🎓 Certifications</h3>
 <ul>
 &nbsp;&nbsp;<li>Computer Software Engineering</li>
@@ -91,14 +91,14 @@
 &nbsp;&nbsp;<li>AWS Cloud Architecture & Deployment</li>
 &nbsp;&nbsp;<li>Python for Automation & Backend Microservices</li>
 </ul>
----
+
 <h2 align="center">📊 GitHub Activity</h2>
 <div align="center">
 &nbsp;&nbsp;<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Emmanuel-Ejeagha&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D"/>
 &nbsp;&nbsp;<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuel-Ejeagha&theme=github_dark&border_radius=10"/>
 &nbsp;&nbsp;<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmanuel-Ejeagha&theme=github_dark&border_radius=10"/>
 </div>
----
+
 <h2 align="center">📫 Let's Connect & Collaborate</h2>
 <p align="center">
 &nbsp;&nbsp;I'm actively seeking <strong>backend engineering opportunities</strong>, especially in <strong>.NET / C# ecosystems</strong>, or scalable API projects.<br><br>
