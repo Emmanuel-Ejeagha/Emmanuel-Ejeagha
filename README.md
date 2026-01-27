@@ -32,7 +32,7 @@
 ### .NET Ecosystem & Frameworks
 <p align="center">
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" height="50"/>
-&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/519152c7-5c4b-421f-abcc-b7f1dc7aec50" alt="ASP.NET Core" height="50"/>
+&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/22e2eccf-689f-4a55-87a5-7c96b01754e7" alt="ASP.NET Core" height="50"/>
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" height="50"/>
 </p>
 ### Databases & ORMs
