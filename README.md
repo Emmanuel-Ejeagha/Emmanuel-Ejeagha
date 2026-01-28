@@ -1,5 +1,5 @@
 <div align="center">
-&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00A3FF&center=true&vCenter=true&width=700&lines=Emmanuel+Ejeagha;Backend+Software+Engineer;.NET+%7C+C%23+%7C+ASP.NET+Core+%7C+REST+APIs;Server-Side+Development" alt="Typing SVG" />
+&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00A3FF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;.NET+%7C+C%23+%7C+ASP.NET+Core+%7C+REST+APIs;Server-Side+Development" alt="Typing SVG" />
 </div>
 <br>
 <h2 align="center">👋 Hi, I'm Emmanuel — Backend Software Engineer</h2>
@@ -26,7 +26,7 @@
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="50"/>
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50"/>
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50"/>
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/>
+<!-- &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/> -->
 </p>
 <h3>.NET Ecosystem & Frameworks</h3>
 <p align="center">
