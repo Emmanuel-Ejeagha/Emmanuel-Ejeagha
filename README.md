@@ -76,6 +76,17 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 &nbsp;&nbsp;&nbsp;&nbsp;</td>
+&nbsp;&nbsp;&nbsp;&nbsp;<td width="50%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h3 align="center">Smart Task Management API 🏢</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>A production-ready multi-tenant task management system</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C# • ASP.NET Core • EF Core<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Task lifecycle • CRUD • Scalable MVC design<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Emmanuel-Ejeagha/Smart_Task_Management_API">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+&nbsp;&nbsp;&nbsp;&nbsp;</td>                                                      
 &nbsp;&nbsp;</tr>
 </table>
 </div>
