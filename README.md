@@ -50,45 +50,39 @@
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="50"/>
 </p>
 
-<h2>🚀 Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
+
 <div align="center">
-<table>
-&nbsp;&nbsp;<tr>
-&nbsp;&nbsp;&nbsp;&nbsp;<td width="50%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h3 align="center">Messaging Platform 💬</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Production-grade messaging API</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASP.NET Core 8 • Clean Architecture • DDD • CQRS<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One-to-one & group chats • Threading • Read receipts<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Emmanuel-Ejeagha/Messaging_Platform">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-&nbsp;&nbsp;&nbsp;&nbsp;</td>
-&nbsp;&nbsp;&nbsp;&nbsp;<td width="50%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h3 align="center">Employee Management Portal 🏢</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Full backend employee system</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C# • ASP.NET Core • EF Core<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RBAC • CRUD • Scalable MVC design<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Emmanuel-Ejeagha/EmployeeMgmtPortal">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-&nbsp;&nbsp;&nbsp;&nbsp;</td>
-&nbsp;&nbsp;&nbsp;&nbsp;<td width="50%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h3 align="center">Smart Task Management API 🏢</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>A production-ready multi-tenant task management system</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C# • ASP.NET Core • EF Core<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Task lifecycle • CRUD • Scalable MVC design<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Emmanuel-Ejeagha/Smart_Task_Management_API">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-&nbsp;&nbsp;&nbsp;&nbsp;</td>                                                      
-&nbsp;&nbsp;</tr>
-</table>
+  <table cellspacing="0" cellpadding="20">
+    <tr>
+      <td width="33%" align="center" valign="top">
+        <h3>💬 Messaging Platform</h3>
+        <p><strong>Production-grade messaging API</strong></p>
+        <p>ASP.NET Core 8 • Clean Architecture • DDD • CQRS<br>One-to-one & group chats • Threading • Read receipts</p>
+        <a href="https://github.com/Emmanuel-Ejeagha/Messaging_Platform">
+          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+
+      <td width="33%" align="center" valign="top">
+        <h3>🏢 Employee Management Portal</h3>
+        <p><strong>Full backend employee system</strong></p>
+        <p>C# • ASP.NET Core • EF Core<br>RBAC • CRUD • Scalable MVC design</p>
+        <a href="https://github.com/Emmanuel-Ejeagha/EmployeeMgmtPortal">
+          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+
+      <td width="33%" align="center" valign="top">
+        <h3>🏢 Smart Task Management API</h3>
+        <p><strong>Production-ready multi-tenant task system</strong></p>
+        <p>C# • ASP.NET Core • EF Core<br>Task lifecycle • Multi-tenancy • Clean Architecture</p>
+        <a href="https://github.com/Emmanuel-Ejeagha/Smart_Task_Management_API">
+          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h3>🎓 Certifications</h3>
