@@ -62,14 +62,21 @@
           <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
-      <td width="33%" align="center" valign="top">
-        <h3>🏢 Employee Management Portal</h3>
-        <p><strong>Full backend employee system</strong></p>
-        <p>C# • ASP.NET Core • EF Core<br>RBAC • CRUD • Scalable MVC design</p>
-        <a href="https://github.com/Emmanuel-Ejeagha/EmployeeMgmtPortal">
-          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a>
-      </td>
+     <td width="33%" align="center" valign="top">
+  <h3>🏦 Digital Wallet Ledger API</h3>
+  <p><strong>Full-featured backend banking system</strong></p>
+  <p>
+    C# • ASP.NET Core • EF Core<br>
+    Role-Based Access Control (RBAC) • CRUD • Scalable MVC Architecture
+  </p>
+  <a href="https://github.com/Emmanuel-Ejeagha/digital-wallet-ledger-api" target="_blank">
+    <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
+         alt="View on GitHub"/>
+  </a>
+  <p style="margin-top: 0.5em; font-size: 0.9em; color: #555;">
+    Demonstrates expertise in designing robust backend systems, clean architecture, and modern C# development practices.
+  </p>
+</td>
       <td width="33%" align="center" valign="top">
         <h3>🏢 Smart Task Management API</h3>
         <p><strong>Production-ready multi-tenant task system</strong></p>
