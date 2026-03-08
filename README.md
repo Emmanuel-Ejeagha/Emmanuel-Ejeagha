@@ -111,7 +111,7 @@
       </td>
     </tr>
     <tr>
-      <!-- Smart Task Management API -->
+       Smart Task Management API 
       <td width="33%" align="center" valign="top">
         <h3>🏢 Smart Task Management API</h3>
         <p><strong>Production-ready multi-tenant task system</strong></p>
