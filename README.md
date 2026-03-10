@@ -68,7 +68,7 @@
   <table cellspacing="0" cellpadding="20">
     <tr>
       <!-- NairaWallet -->
-       <td width="33%" align="center" valign="top">
+   <!--    <td width="33%" align="center" valign="top">
         <h3>💳 NairaWallet</h3>
         <p><strong>Production-grade FinTech Wallet API</strong></p>
         <p>
@@ -81,7 +81,7 @@
         <p style="margin-top: 0.5em; font-size: 0.9em; color: #555;">
           A fully architected digital wallet backend system demonstrating strong domain modeling, secure authentication, transactional integrity, and financial-grade design patterns.
         </p>
-      </td>
+      </td> -->
       <!-- Digital Wallet Ledger API -->
       <td width="33%" align="center" valign="top">
         <h3>🏦 Digital Wallet Ledger API</h3>
