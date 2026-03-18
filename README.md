@@ -82,7 +82,6 @@
           Demonstrates expertise in designing robust backend systems, clean architecture, and modern C# development practices.
         </p>
       </td>
-
       <!-- Messaging Platform -->
       <td width="33%" align="center" valign="top">
         <h3>💬 Messaging Platform</h3>
@@ -95,7 +94,6 @@
           <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
         </a>
       </td>
-
       <!-- Smart Task Management API -->
       <td width="33%" align="center" valign="top">
         <h3>🏢 Smart Task Management API</h3>
