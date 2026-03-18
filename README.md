@@ -35,20 +35,15 @@
   <img src="https://github.com/user-attachments/assets/22e2eccf-689f-4a55-87a5-7c96b01754e7" alt="ASP.NET Core" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" height="50"/>
 </p>
-### Databases & ORMs
+### Databases & Messaging
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-plain.svg" alt="gRPC" height="50"/>
 </p>
-
-### Caching, Messaging & RPC
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" height="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rabbitmq.svg" alt="RabbitMQ" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/grpc/grpc-icon.svg" alt="gRPC" height="50"/>
-</p>
-
 ### Tools & DevOps
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50"/>
@@ -63,21 +58,6 @@
 <div align="center">
   <table cellspacing="0" cellpadding="20">
     <tr>
-      <!-- NairaWallet -->
-   <!-- <td width="33%" align="center" valign="top">
-        <h3>💳 NairaWallet</h3>
-        <p><strong>Production-grade FinTech Wallet API</strong></p>
-        <p>
-          ASP.NET Core • Clean Architecture • DDD • CQRS<br>
-          JWT Auth • Idempotency • Fraud Detection • Audit Logs
-        </p>
-        <a href="https://github.com/Emmanuel-Ejeagha/NairaWallet" target="_blank">
-          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
-        </a>
-        <p style="margin-top: 0.5em; font-size: 0.9em; color: #555;">
-          A fully architected digital wallet backend system demonstrating strong domain modeling, secure authentication, transactional integrity, and financial-grade design patterns.
-        </p>
-      </td> -->
       <!-- Digital Wallet Ledger API -->
       <td width="33%" align="center" valign="top">
         <h3>🏦 Digital Wallet Ledger API</h3>
@@ -107,7 +87,7 @@
       </td>
     </tr>
     <tr>
-       Smart Task Management API
+      <!-- Smart Task Management API -->
       <td width="33%" align="center" valign="top">
         <h3>🏢 Smart Task Management API</h3>
         <p><strong>Production-ready multi-tenant task system</strong></p>
@@ -120,7 +100,6 @@
         </a>
       </td>
     </tr>
-   
   </table>
 </div>
 ---
@@ -128,9 +107,9 @@
 - Computer Software Engineering
 - C# Foundation with Microsoft
 ## 🌱 Currently Exploring
-- Advanced .NET Patterns, Performance & Backend Microservices
-- Azure Cloud Architecture & Deployment
-- Python for Automation 
+- Advanced .NET Patterns & Performance
+- AWS Cloud Architecture & Deployment
+- Python for Automation & Backend Microservices
 ---
 ## 📊 GitHub Activity
 <div align="center">
