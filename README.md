@@ -5,7 +5,7 @@
 <h2 align="center">👋 Hi, I'm Emmanuel — Backend Software Engineer</h2>
 <p align="center">
   <strong>Passionate about building scalable, clean, and high-performance backend systems.</strong><br>
-  Specialized in <strong>C# • .NET Core • ASP.NET Core</strong> • Experienced with REST APIs, Clean Architecture, DDD, CQRS, Microservices, and cloud-ready solutions.<br>
+  Specialized in <strong>C# • .NET Core • ASP.NET Core</strong> • Experienced with REST APIs, Clean Architecture, Vertical Slice Architecture, Minimal APIs, DDD, CQRS, Microservices, and cloud-ready solutions.<br>
   Proficient in <strong>Python</strong> for scripting & automation and <strong>C</strong> for performance-critical systems.
 </p>
 
