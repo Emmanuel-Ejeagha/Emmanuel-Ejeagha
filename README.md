@@ -66,6 +66,7 @@
 ## 🚀 Featured Projects
 <div align="center">
   <table cellspacing="0" cellpadding="20">
+    <!-- Row 1 -->
     <tr>
       <!-- Digital Wallet Ledger API -->
       <td width="33%" align="center" valign="top">
@@ -107,7 +108,24 @@
         </a>
       </td>
     </tr>
-  </table>
+    <!-- Row 2: E‑Commerce Microservices Platform -->
+    <tr>
+      <td width="100%" colspan="3" align="center" valign="top">
+        <h3>🛒 E‑Commerce Microservices Platform</h3>
+        <p><strong>Scalable, event‑driven microservices system</strong></p>
+        <p>
+          .NET 8/10 • Minimal API • YARP Gateway • RabbitMQ • MassTransit • Docker<br>
+          5 services (Catalog, Basket, Discount.gRPC, Ordering, YARP) • CQRS • Vertical Slice • gRPC
+        </p>
+        <a href="https://github.com/Emmanuel-Ejeagha/EcommerceMicroservices" target="_blank">
+          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
+        </a>
+        <p style="margin-top: 0.5em; font-size: 0.9em; color: #555;">
+          Full e‑commerce backend with async checkout, API gateway routing, rate limiting, and Docker orchestration.
+        </p>
+      </td>
+    </tr>
+   </table>
 </div>
 
 ---
