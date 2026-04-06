@@ -114,7 +114,7 @@
         <h3>🛒 E‑Commerce Microservices Platform</h3>
         <p><strong>Scalable, event‑driven microservices system</strong></p>
         <p>
-          .NET 8/10 • Minimal API • YARP Gateway • RabbitMQ • MassTransit • Docker<br>
+          .NET10 • Minimal API • YARP Gateway • RabbitMQ • MassTransit • Docker<br>
           5 services (Catalog, Basket, Discount.gRPC, Ordering, YARP) • CQRS • Vertical Slice • gRPC
         </p>
         <a href="https://github.com/Emmanuel-Ejeagha/EcommerceMicroservices" target="_blank">
