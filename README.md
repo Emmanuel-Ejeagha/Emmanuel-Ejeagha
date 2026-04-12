@@ -147,7 +147,6 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuel-Ejeagha&theme=github_dark&border_radius=10"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmanuel-Ejeagha&theme=github_dark&border_radius=10"/>
 </div>
-
 ---
 
 ## 📫 Let's Connect
