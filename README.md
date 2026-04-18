@@ -153,7 +153,8 @@
 <p align="center">
 I'm actively seeking <strong>backend engineering opportunities</strong>, especially in <strong>.NET / C# ecosystems</strong> or scalable API projects.<br><br>
 <strong>Open to:</strong> full-time roles • contract work • open-source collaboration • technical discussions<br><br>
-Reach out → <a href="mailto:emma.ejeagha@gmail.com"><strong>emma.ejeagha@gmail.com</strong></a> | +234 809 099 3144 | +2348134454337
+Reach out → <a href="mailto:emma.ejeagha@gmail.com"><strong>emma.ejeagha@gmail.com</strong></a> | +234 809 099 3144 | +2348134454337 
++2348090993144
 </p>
 
 <div align="center">
