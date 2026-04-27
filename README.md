@@ -75,12 +75,6 @@
 <p align="center">
   - Computer Software Engineering 
   - C# Foundation with Microsoft
-  <img src="./certs/linux_cert.png" alt="Introduction to Linux" width="250"/>
-  <img src="./certs/intro_kubernetes.png" alt="Introduction to Kubernetes" width="250"/>
-  <img src="./certs/kubernetes_essentials.png" alt="Kubernetes and Cloud Native Essentials" width="250"/>
-</p>
-
-<p align="center">
   <strong>Linux Foundation Certified:</strong><br>
   • Introduction to Linux (LFS101)<br>
   • Introduction to Kubernetes (LFS158)<br>
