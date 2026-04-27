@@ -73,8 +73,8 @@
 ## 🎓 Certifications
 
 <p align="center">
-  - Computer Software Engineering 
-  - C# Foundation with Microsoft
+  - Computer Software Engineering <br>
+  - C# Foundation with Microsoft <br>
   <strong>Linux Foundation Certified:</strong><br>
   • Introduction to Linux (LFS101)<br>
   • Introduction to Kubernetes (LFS158)<br>
