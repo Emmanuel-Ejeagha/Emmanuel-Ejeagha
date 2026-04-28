@@ -112,15 +112,10 @@
 
 ## 🎓 Certifications
 
-<p align="center">
-  <img src="./certs/linux_cert.png" width="250"/>
-  <img src="./certs/intro_kubernetes.png" width="250"/>
-  <img src="./certs/kubernetes_essentials.png" width="250"/>
-</p>
 
 <p align="center">
-  • Computer Software Engineering - ALX <br>
-  • Foundational C# with Microsoft - FreeCodeCamp <br>
+  • Computer Software Engineering - <b>ALX</b> <br>
+  • Foundational C# with Microsoft - <b>FreeCodeCamp</b> <br>
   <strong>Linux Foundation Certified:</strong><br>
   • Introduction to Linux (LFS101)<br>
   • Introduction to Kubernetes (LFS158)<br>
