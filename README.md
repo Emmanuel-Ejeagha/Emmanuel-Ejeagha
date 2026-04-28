@@ -16,18 +16,59 @@
 
 <p align="center">
   <a href="mailto:emma.ejeagha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/emmanuel-ejeagha">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/Emma_Ejeagha">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://github.com/Emmanuel-Ejeagha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <table cellpadding="20">
+    <tr>
+      <td align="center">
+        <h3>🏦 Digital Wallet Ledger API</h3>
+        <p>C# • ASP.NET Core • EF Core<br>RBAC • Scalable Architecture</p>
+        <a href="https://github.com/Emmanuel-Ejeagha/digital-wallet-ledger-api">
+          <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+        </a>
+      </td>
+      <td align="center">
+        <h3>💬 Messaging Platform</h3>
+        <p>ASP.NET Core • DDD • CQRS<br>Real-time messaging</p>
+        <a href="https://github.com/Emmanuel-Ejeagha/Messaging_Platform">
+          <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+        </a>
+      </td>
+      <td align="center">
+        <h3>🏢 Smart Task Management API</h3>
+        <p>C# • ASP.NET Core • EF Core<br>Multi-tenant system</p>
+        <a href="https://github.com/Emmanuel-Ejeagha/Smart_Task_Management_API">
+          <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <h3>🛒 E-Commerce Microservices</h3>
+        <p>.NET • Docker • RabbitMQ • gRPC<br>Microservices • API Gateway</p>
+        <a href="https://github.com/Emmanuel-Ejeagha/EcommerceMicroservices">
+          <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -35,37 +76,36 @@
 
 ### Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
 </p>
 
 ### .NET Ecosystem & Frameworks
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" height="50"/>
-  <img src="https://github.com/user-attachments/assets/22e2eccf-689f-4a55-87a5-7c96b01754e7" alt="ASP.NET Core" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50"/>
 </p>
 
 ### Databases & ORMs
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50"/>
 </p>
 
 ### Tools, Messaging & DevOps
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" alt="gRPC" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="50"/>
 </p>
 
 ---
@@ -73,8 +113,12 @@
 ## 🎓 Certifications
 
 <p align="center">
-  - Computer Software Engineering <br>
-  - C# Foundation with Microsoft <br>
+  <img src="./certs/linux_cert.png" width="250"/>
+  <img src="./certs/intro_kubernetes.png" width="250"/>
+  <img src="./certs/kubernetes_essentials.png" width="250"/>
+</p>
+
+<p align="center">
   <strong>Linux Foundation Certified:</strong><br>
   • Introduction to Linux (LFS101)<br>
   • Introduction to Kubernetes (LFS158)<br>
@@ -83,21 +127,16 @@
 
 ---
 
-## 🚀 Featured Projects
-<!-- (unchanged, keep your existing project section here) -->
-
----
-
 ## 🌱 Currently Exploring
-- Advanced .NET Patterns & Performance
-- AWS Cloud Architecture & Deployment
-- Kubernetes in Production (.NET Microservices)
+- Advanced .NET Performance
+- AWS Cloud & Deployment
+- Kubernetes for Microservices
 
 ---
 
 ## 📊 GitHub Activity
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Emmanuel-Ejeagha&theme=dark&border_radius=10"/>
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Emmanuel-Ejeagha&theme=dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuel-Ejeagha&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmanuel-Ejeagha&theme=github_dark"/>
 </div>
@@ -106,9 +145,8 @@
 
 ## 📫 Let's Connect
 <p align="center">
-I'm actively seeking <strong>backend engineering opportunities</strong>, especially in <strong>.NET / C# ecosystems</strong> and cloud-native environments.<br><br>
-<strong>Open to:</strong> full-time roles • remote roles • contract work • collaboration<br><br>
-Reach out → <a href="mailto:emma.ejeagha@gmail.com"><strong>emma.ejeagha@gmail.com</strong></a>
+Open to backend (.NET) and cloud-native roles.<br><br>
+<a href="mailto:emma.ejeagha@gmail.com"><strong>Email Me</strong></a>
 </p>
 
 <div align="center">
