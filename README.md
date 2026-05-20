@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00A3FF&center=true&vCenter=true&width=850&lines=Backend+%2F+FinTech+Software+Engineer;.NET+%7C+C%23+%7C+ASP.NET+Core+%7C+REST+APIs;FinTech+Systems+%7C+Cloud-Native+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00A3FF&center=true&vCenter=true&width=850&lines=Backend+%2F+FinTech+Software+Engineer;.NET+%7C+C%23+%7C+ASP.NET+Core+%7C+REST+APIs;FinTech+Systems+%7C+Docker+%7C+K8s" alt="Typing SVG" />
 </div>
 
 <h2 align="center">👋 Hi, I'm Emmanuel — Backend / FinTech Software Engineer</h2>
@@ -42,7 +42,7 @@
           .NET • Clean Architecture • DDD • CQRS<br>
           Double-Entry Accounting • Ledger Engine • PostgreSQL
         </p>
-        <a href="https://github.com/Emmanuel-Ejeagha/NairaLedgerEngine">
+        <a href="https://github.com/Emmanuel-Ejeagha/naira-ledger-engine">
           <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
         </a>
       </td>
