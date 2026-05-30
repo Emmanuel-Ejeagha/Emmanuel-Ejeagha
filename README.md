@@ -36,26 +36,23 @@
 <div align="center">
   <table cellpadding="20">
     <tr>
-      <td align="center">
-        <h3>🏦 NairaLedgerEngine</h3>
-        <p>
-          .NET • Clean Architecture • DDD • CQRS<br>
-          Double-Entry Accounting • Ledger Engine • PostgreSQL
-        </p>
-        <a href="https://github.com/Emmanuel-Ejeagha/naira-ledger-engine">
-          <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
-        </a>
-      </td>
-      <td align="center">
-        <h3>💬 Messaging Platform</h3>
-        <p>
-          ASP.NET Core • DDD • CQRS<br>
-          Real-time messaging system
-        </p>
-        <a href="https://github.com/Emmanuel-Ejeagha/Messaging_Platform">
-          <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
-        </a>
-      </td>
+      <<td align="center">
+  <h3>🏦 NairaLedgerEngine</h3>
+  <p>
+    .NET • Clean Architecture • DDD • CQRS<br>
+    Double-Entry Accounting • Ledger Engine • PostgreSQL
+  </p>
+
+  <a href="https://github.com/Emmanuel-Ejeagha/naira-ledger-engine">
+    <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+
+  <br><br>
+
+  <a href="https://naira-ledger-engine-1.onrender.com/swagger">
+    <img src="https://img.shields.io/badge/Live%20API-Swagger-blue?style=for-the-badge&logo=swagger"/>
+  </a>
+</td>
       <td align="center">
         <h3>🏢 Smart Task Management API</h3>
         <p>
