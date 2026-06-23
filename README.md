@@ -54,9 +54,10 @@
   </a>
   <br>
 
-  <a href="[Frontend](https://naira-ledger-engine.vercel.app/)">
-
+  <a href="(https://naira-ledger-engine.vercel.app/)">
+    <img src="https://img.shields.io/badge/Frontend-Live"/>
   </a>
+
 </td>
       <td align="center">
         <h3>🏢 Smart Task Management API</h3>
