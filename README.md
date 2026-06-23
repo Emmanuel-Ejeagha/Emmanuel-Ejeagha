@@ -54,8 +54,8 @@
   </a>
   <br>
 
-  <a href="(https://naira-ledger-engine.vercel.app/)">
-    <img src="https://img.shields.io/badge/Frontend-Live"/>
+  <a href="https://naira-ledger-engine.vercel.app/">
+    <img src="https://img.shields.io/badge/Frontend-Liveblack?style=for-the-badge&logo=vercel"/>
   </a>
 
 </td>
