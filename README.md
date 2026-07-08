@@ -33,68 +33,96 @@
 
 ## 🚀 Featured Projects
 
+<div align="center">## 🚀 Featured Projects
+
 <div align="center">
   <table cellpadding="20">
     <tr>
-      <<td align="center">
-  <h3>🏦 NairaLedgerEngine</h3>
-  <p>
-    .NET • Clean Architecture • DDD • CQRS<br>
-    Double-Entry Accounting • Ledger Engine • PostgreSQL
-  </p>
+      <td align="center">
+        <h3>💳 Real-Time Payment Switch</h3>
+        <p>
+          .NET 10 • Microservices • DDD • CQRS<br>
+          RabbitMQ • Redis • PostgreSQL • AWS EC2
+        </p>
 
-  <a href="https://github.com/Emmanuel-Ejeagha/naira-ledger-engine">
-    <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://github.com/Emmanuel-Ejeagha/Payment-switch">
+<img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 
-  <br>
+<br>
 
-  <a href="https://naira-ledger-engine-1.onrender.com/swagger">
-    <img src="https://img.shields.io/badge/Live%20API-Swagger-blue?style=for-the-badge&logo=swagger"/>
-  </a>
-  <br>
+<a href="http://16.171.58.173/identity/swagger/index.html">
+<img src="https://img.shields.io/badge/Live%20API-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</a>
 
-  <a href="https://naira-ledger-engine.vercel.app/">
-    <img src="https://img.shields.io/badge/Frontend-Liveblack?style=for-the-badge&logo=vercel"/>
-  </a>
+<br>
+
+<sub>
+Identity • Merchant • Payment • Ledger • Notification • Settlement
+</sub>
 
 </td>
-      <td align="center">
-        <h3>🏢 Smart Task Management API</h3>
-        <p>
-          C# • ASP.NET Core • EF Core<br>
-          Multi-tenant backend system
-        </p>
-        <a href="https://github.com/Emmanuel-Ejeagha/Smart_Task_Management_API">
-          <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>🛒 E-Commerce Microservices</h3>
-        <p>
-          .NET • Docker • RabbitMQ • gRPC<br>
-          Microservices • API Gateway
-        </p>
-        <a href="https://github.com/Emmanuel-Ejeagha/EcommerceMicroservices">
-          <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
-        </a>
-      </td>
-      <td align="center">
-        <h3>🏦 Digital Wallet Ledger API</h3>
-        <p>
-          C# • ASP.NET Core • EF Core<br>
-          RBAC • Scalable Architecture
-        </p>
-        <a href="https://github.com/Emmanuel-Ejeagha/digital-wallet-ledger-api">
-          <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
+<td align="center">
+<h3>🏦 Naira Ledger Engine</h3>
+
+<p>
+.NET • Clean Architecture • DDD • CQRS<br>
+Double-Entry Accounting • PostgreSQL
+</p>
+
+<a href="https://github.com/Emmanuel-Ejeagha/naira-ledger-engine">
+<img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<br>
+
+<a href="https://naira-ledger-engine-1.onrender.com/swagger">
+<img src="https://img.shields.io/badge/Live%20API-Swagger-blue?style=for-the-badge&logo=swagger"/>
+</a>
+
+<br>
+
+<a href="https://naira-ledger-engine.vercel.app/">
+<img src="https://img.shields.io/badge/Frontend-Live-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<h3>🏢 Smart Task Management API</h3>
+
+<p>
+C# • ASP.NET Core • EF Core<br>
+Multi-tenant Backend System
+</p>
+
+<a href="https://github.com/Emmanuel-Ejeagha/Smart_Task_Management_API">
+<img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<h3>🛒 E-Commerce Microservices</h3>
+
+<p>
+.NET • Docker • RabbitMQ • gRPC<br>
+Microservices • API Gateway
+</p>
+
+<a href="https://github.com/Emmanuel-Ejeagha/EcommerceMicroservices">
+<img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+</div>
 ---
 
 ## 🛠️ Tech Stack
