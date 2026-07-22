@@ -31,7 +31,7 @@
 
 ---
 
-<div align="center">## 🚀 Featured Projects
+<div align="center">## 🚀 Featured Projects </div>
 
 <div align="center">
   <table cellpadding="20">
