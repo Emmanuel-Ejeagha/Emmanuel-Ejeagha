@@ -80,7 +80,7 @@ I enjoy working on problems where transaction correctness, system reliability, s
 
 > *“Build systems that are reliable, understandable, and designed to last.”*
 
-    </td>
+  </td>
   </tr>
 </table>
 
@@ -109,7 +109,7 @@ Designed as a multi-service backend with a focus on payment lifecycle management
 
 `C#` `ASP.NET Core` `.NET 10` `PostgreSQL` `Redis` `RabbitMQ` `Hangfire` `Docker` `AWS EC2`
 
-    </td>
+</td>
     <td width="34%" align="center" valign="middle">
 
 <a href="https://github.com/Emmanuel-Ejeagha/Payment-switch">
@@ -126,7 +126,7 @@ Designed as a multi-service backend with a focus on payment lifecycle management
 
 <sub>Explore the code, service boundaries, API endpoints and implementation details in the repository.</sub>
 
-    </td>
+  </td>
   </tr>
 </table>
 
@@ -146,7 +146,7 @@ A financial ledger backend focused on double-entry accounting concepts, transact
 
 <a href="https://github.com/Emmanuel-Ejeagha/naira-ledger-engine"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-172554?style=for-the-badge&logo=github&logoColor=white" alt="Explore Naira Ledger Engine" /></a>
 
-    </td>
+  </td>
     <td width="50%" valign="top">
 
 ### 🛒 E-Commerce Microservices
@@ -157,7 +157,7 @@ A distributed e-commerce backend exploring service boundaries, inter-service com
 
 <a href="https://github.com/Emmanuel-Ejeagha/EcommerceMicroservices"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-172554?style=for-the-badge&logo=github&logoColor=white" alt="Explore E-Commerce Microservices" /></a>
 
-    </td>
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -169,8 +169,7 @@ A multi-tenant backend API demonstrating API development, data access and applic
 **Stack:** `C#` · `ASP.NET Core` · `Entity Framework Core`
 
 <a href="https://github.com/Emmanuel-Ejeagha/Smart_Task_Management_API"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-172554?style=for-the-badge&logo=github&logoColor=white" alt="Explore Smart Task Management API" /></a>
-
-    </td>
+  </td>    
     <td width="50%" valign="top">
 
 ### 🔎 More Repositories
@@ -179,7 +178,7 @@ Explore additional experiments, backend projects and software engineering work o
 
 <a href="https://github.com/Emmanuel-Ejeagha?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOSITORIES-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a>
 
-    </td>
+  </td>
   </tr>
 </table>
 
@@ -203,7 +202,7 @@ Explore additional experiments, backend projects and software engineering work o
   <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,flask,django&theme=dark" alt=".NET, Node.js, Express, Flask and Django" />
 </p>
 
-    </td>
+  </td>
     <td width="50%" valign="top">
 
 ### 🗄️ Databases & Caching
@@ -229,7 +228,7 @@ Explore additional experiments, backend projects and software engineering work o
 
 `Containers` · `Cloud Deployment` · `CI/CD` · `GitHub Actions`
 
-    </td>
+  </td>
     <td width="50%" valign="top">
 
 ### 📈 Observability & Tools
@@ -240,7 +239,7 @@ Explore additional experiments, backend projects and software engineering work o
 
 `OpenTelemetry` · `Jaeger` · `Serilog` · `Visual Studio`
 
-    </td>
+  </td>
   </tr>
 </table>
 
