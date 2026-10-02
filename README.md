@@ -215,7 +215,7 @@ Explore additional experiments, backend projects and software engineering work o
 
 `RabbitMQ` · `MassTransit` · `gRPC` · `REST` · `Swagger / OpenAPI`
 
-    </td>
+  </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
